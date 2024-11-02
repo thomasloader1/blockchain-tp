@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Nethereum.Hex.HexConvertors.Extensions;
 using Nethereum.Web3;
 
 namespace BlockchainTest.Controllers;
